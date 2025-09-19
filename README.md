@@ -35,6 +35,7 @@ Intégration avec Filebeat / ELK pour centralisation & dashboards
 Ajout d'un mode "monitoring" (exécution récurrente + alertes)
 
 Visualisations graphiques (matplotlib / plotly)
+
 ---
 
 ## Installation / Utilisation
