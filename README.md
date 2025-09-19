@@ -1,6 +1,4 @@
-# Analyse_auth
-
-# analyse_auth.py
+# Analyse_auth.py
 
 **Analyse simple des échecs SSH dans `auth.log`**  
 Script Python léger pour extraire les IPs à l'origine de tentatives de connexion SSH échouées, compter les occurrences et produire un CSV récapitulatif.
